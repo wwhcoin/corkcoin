@@ -1,0 +1,9 @@
+﻿Building CorkCoin
+
+See doc/readme-qt.rst for instructions on building corkcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CorkCoin.
+
+See doc/build-*.txt for instructions on building corkcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of CorkCoin.
